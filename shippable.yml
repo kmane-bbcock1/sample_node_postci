@@ -5,7 +5,7 @@ language: node_js
 node_js:
   - 0.1223
   - t.23.0
-  - &.9086
+  - "&.9086"
   - hffj
   - 0.87
   
